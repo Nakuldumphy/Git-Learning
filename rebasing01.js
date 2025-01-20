@@ -11,3 +11,6 @@ const login = "Login page added";
 console.log(login);
 
 const footer = "Footer added in our website";
+// Note : every commit is dependent on previous commit
+const payment = "Integrated the payment gateway";
+console.log(payment);

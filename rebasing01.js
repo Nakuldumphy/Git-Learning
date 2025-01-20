@@ -14,3 +14,6 @@ const footer = "Footer added in our website";
 // Note : every commit is dependent on previous commit
 const payment = "Integrated the payment gateway";
 console.log(payment);
+
+const upi = "Integrated the UPI";
+console.log(upi);
